@@ -310,7 +310,7 @@ public class LRUAbstractMap extends java.util.AbstractMap {
 
 
     /**
-     * copy HashMap 的 hash 实现
+     * copy HashMap  的 hash 实现
      * @param key
      * @return
      */
